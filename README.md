@@ -9,10 +9,6 @@ This project delves into the world of online electronics sales by analyzing a da
 Python (Data analysis and visualization)
 Libraries: Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/Seaborn (Data visualization)
 
-
-
-
-
 ### Task List:
 
 - [ ] Import libraries and load data
